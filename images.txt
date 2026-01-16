@@ -1,2 +1,3 @@
 getmeili/meilisearch
 nickfedor/watchtower
+binwiederhier/ntfy
