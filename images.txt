@@ -1,3 +1,5 @@
 getmeili/meilisearch
 nickfedor/watchtower
 binwiederhier/ntfy
+easytier/easytier
+henrygd/beszel-agent
